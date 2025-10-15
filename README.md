@@ -1,3 +1,5 @@
+## Informações essênciais
+
 Abaixo estarei disponibilizando o link de um vídeo com o passo a passo da inicialização do projeto no meu google drive:
 https://drive.google.com/file/d/1LEvyTSgPIENVaTOC6lLN_4mk0DLp7yfa/view?usp=sharing
 
@@ -11,9 +13,11 @@ Usuário de login no FrontEnd (logar na aplicação )
 - admin123
 
 Logar no banco ou quando for construir ele
-Nome do banco deve ser: rest_with_spring_erudio
 - root
 - 112233
+- Nome do banco deve ser: rest_with_spring_erudio
+
+Abaixo deixo imagens demonstrativas, porém enfatizo o vídeo disponibilizado em drive
 
 
 ## Como iniciar - BANCO DE DADOS DB:
