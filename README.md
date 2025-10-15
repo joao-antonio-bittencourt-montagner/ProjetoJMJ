@@ -30,11 +30,21 @@ Banco criado - a aplicação criará automaticamente as tabelas e dados
 
 ## Como iniciar - BackEnd, Spring_Boot:
 
-- Para acessar o backend com o springboot basta apenas abrir a parta e abrir no intellij:
-<img width="1039" height="661" alt="image" src="https://github.com/user-attachments/assets/deec03fd-a3ab-496c-89e2-b53681bc85b5" />
+- Para acessar o backend com o springboot basta apenas abrir a pasta do projeto e abrir no intellij:
+<img width="1158" height="206" alt="image" src="https://github.com/user-attachments/assets/ee4a18cc-06d5-4a6d-9cf8-6d7408ba7b9e" />
 
-- Aqui verificaremos se o application.yml está corretamente configurado para podermos iniciá-lo
-<img width="1399" height="397" alt="image" src="https://github.com/user-attachments/assets/7778f605-dea8-4593-83fd-8700d03a5e4d" />
+- Selecionar o projeto
+<img width="1120" height="217" alt="image" src="https://github.com/user-attachments/assets/cc1ec865-49a1-4267-8774-4b3e8c05945c" />
+
+- Começar ele
+<img width="1290" height="992" alt="image" src="https://github.com/user-attachments/assets/b78fbde8-8249-415b-9f2d-12b8d88a9613" />
+
+
+- Aguardamos a IDE carregar todos os arquivos necessários e as dpendências maven
+- Precisamos Procurar pelo arquivo "Startup pelo diretório"
+- Podemos iniciar ele pelo ícone de play ao lado da classe
+<img width="1867" height="1009" alt="image" src="https://github.com/user-attachments/assets/cb69da59-6b93-433a-9c15-2f31261cd8fc" />
+
 
 - Configurações atuais: 
 <img width="900" height="857" alt="image" src="https://github.com/user-attachments/assets/bf085926-7517-4da2-a3c9-f5dfd4f914ca" />
@@ -47,6 +57,8 @@ Banco criado - a aplicação criará automaticamente as tabelas e dados
 - Ao iniciar essa deve ser a interface:
 <img width="1816" height="998" alt="image" src="https://github.com/user-attachments/assets/33d5520d-2d53-4dc9-9975-42a1e9240a50" />
 
+- O backend já está operante e agora precisamos inicializar o front para mexer na interface
+
 ## Como iniciar - FrontEnd, React/Angular:
 
 - É interessante abrir o projeto na pasta "client"
@@ -58,7 +70,10 @@ Banco criado - a aplicação criará automaticamente as tabelas e dados
 - Ao abrir no vscode essa será a interface
 <img width="1244" height="749" alt="image" src="https://github.com/user-attachments/assets/d026daf5-d989-4f8b-8e34-99cb8c40c8a8" />
 
-- Precisaremos abrir o termianr e digitar "npm start"
+- Verificar se está instalado corretamente o "npm" rodando "npm install"
+<img width="1215" height="681" alt="image" src="https://github.com/user-attachments/assets/f975e7dd-db29-4980-9cbe-3836a6da66c1" />
+
+- Precisaremos abrir o terminal e digitar "npm start"
 <img width="966" height="225" alt="image" src="https://github.com/user-attachments/assets/5d41df74-007b-4be6-b2ec-9f362596dc5d" />
 
 - Ao digitar seremos redirecionados para essa interface:
