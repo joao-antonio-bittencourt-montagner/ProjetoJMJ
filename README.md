@@ -1,16 +1,16 @@
 Abaixo estarei disponibilizando o link de um vídeo com o passo a passo da inicialização do projeto no meu google drive:
 https://drive.google.com/file/d/1LEvyTSgPIENVaTOC6lLN_4mk0DLp7yfa/view?usp=sharing
 
-Tecnologis utilizadas:
+Tecnologis utilizadas
 - Java/SpringBoot
 - JavaScrip/Angular/React
 - MySQL
 
-Usuário de login no FrontEnd (logar na aplicação ):
+Usuário de login no FrontEnd (logar na aplicação )
 - leandro
 - admin123
 
-Logar no banco ou quando for construir ele:
+Logar no banco ou quando for construir ele
 Nome do banco deve ser: rest_with_spring_erudio
 - root
 - 112233
