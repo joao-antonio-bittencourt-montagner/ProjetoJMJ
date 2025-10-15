@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/26_ShieldingOurAPIWithTests.iml" filepath="$PROJECT_DIR$/.idea/26_ShieldingOurAPIWithTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16 RestWithSpringBootUdemy Files/rest-with-springboot-udemy.iml" filepath="$PROJECT_DIR$/16 RestWithSpringBootUdemy Files/rest-with-springboot-udemy.iml" />
+    </modules>
+  </component>
+</project>

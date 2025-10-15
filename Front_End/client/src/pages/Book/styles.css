@@ -1,0 +1,100 @@
+
+.container{
+    width: 100%;
+    max-width: 1180px;
+    padding: 0 30px;
+    margin: 32px auto;
+
+}
+
+
+
+.container header{
+    display: flex;
+    align-items: center;
+    border-radius: 90px;
+    background-color: rgba(115, 113, 147, 0.258);
+
+}
+
+.container header span{
+    font-size: 20px;
+    margin-left: 24px;
+    
+}
+
+.container header img{
+    height: 64px;
+}
+
+.container header a{
+    width:250px;
+    margin-left: auto;
+    margin-top: 0;
+}
+
+.container header button{
+    height: 60px;
+    width: 60px;
+    border-radius: 4px;
+    margin-left: 16px;
+    border: 1px solid #DCDCE6;
+    background-color: rgb(206, 206, 206);
+    transition: border-color 0.5s;
+}
+
+.container header button:hover{
+    border-color: #2a2859;
+}
+
+.container h1{
+    margin-top: 80px;
+    margin-bottom: 24px;
+
+}
+
+.container ul{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 24px;
+    list-style: none;
+}
+
+.container ul li{
+    background-color: rgba(223, 223, 223, 0.546);
+    padding: 24px;
+    border-radius: 8px;
+    position: relative;
+}
+
+.container ul button {
+    position: absolute;
+    right: 24px;
+    top: 24px;
+    border: 0;
+    background: transparent;
+}
+
+.container ul button + button{
+    top: 50px;
+}
+
+.container ul button:hover{
+    opacity: 0.8;
+}
+
+.container ul li strong{
+    display: block;
+    margin-bottom: 16px;
+    color: #020203;
+}
+
+.container ul li p + strong{
+    margin-top: 32px;
+}
+
+.container ul li p {
+    color: #090959;
+    line-height: 21px;
+    font-size: 16px;
+}

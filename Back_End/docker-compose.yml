@@ -1,0 +1,40 @@
+services:
+  db:
+    image: mysql:9.1.0
+    command: mysqld --default_authentication_plugin=mysql_native_password
+    restart: always
+    environment:
+      TZ: America/Sao_Paulo
+      MYSQL_ROOT_PASSWORD: 112233
+      MYSQL_USER: docker
+      MYSQL_PASSWORD: 112233
+      MYSQL_DATABASE: rest_with_spring_erudio
+    ports:
+      - "3308:3306"
+    expose:
+      - 3306
+    networks:
+      - projeto-network
+  rest-with-spring-erudio:
+    image: joaoantoniob/rest-with-spring-erudio
+    restart: always
+    build: ./ProjetoJMJ_SpringBoot
+    working_dir: /ProjetoJMJ_SpringBoot
+
+    environment:
+      TZ: America/Mato_Grosso
+      SPRING.DATASOURCE.URL: jdbc:mysql://db:3306/rest_with_spring_erudio?useTimezone=true&serverTimezone=UTC
+      SPRING.DATASOURCE.USERNAME: root
+      SPRING.DATASOURCE.PASSWORD: 112233
+
+    command: nvm spring-boot:run
+
+    ports:
+      - 80:80
+    depends_on:
+      - db
+    networks:
+      - projeto-network
+networks:
+  projeto-network:
+    driver: bridge
