@@ -14,6 +14,19 @@ Detalhes para o SQL:
 Banco criado - a aplicação criará automaticamente as tabelas e dados
 <img width="261" height="113" alt="image" src="https://github.com/user-attachments/assets/dd835495-6a7a-47f8-8745-6d6938b95f12" />
 
+## Clonando o repositório:
+<img width="1160" height="862" alt="image" src="https://github.com/user-attachments/assets/7017348d-667e-4f70-800b-074dcd49a4ba" />
+
+- Colocar o comando
+- git clone https://github.com/joao-antonio-bittencourt-montagner/ProjetoJMJ.git
+<img width="1581" height="572" alt="image" src="https://github.com/user-attachments/assets/53e48a46-1583-483c-8bbb-410b988f4d1b" />
+- Entramos na página gerada
+<img width="944" height="237" alt="image" src="https://github.com/user-attachments/assets/f77739e1-bd53-48a7-82d2-811bc707f9e4" />
+<img width="1005" height="281" alt="image" src="https://github.com/user-attachments/assets/a5786533-68c9-4d14-80fb-26b00d8389b7" />
+
+
+
+
 
 ## Como iniciar - BackEnd, Spring_Boot:
 
