@@ -19,17 +19,7 @@ Logar no banco ou quando for construir ele
 
 Abaixo deixo imagens demonstrativas, porém enfatizo o vídeo disponibilizado em drive
 
-## 2 - ⚠️ Aviso importante!!
-
-- Caso o projeto não esteja sendo reconhecido como maven provavelmente ele estará assim, empedindo de que o mesmo possa ser executado.
-<img width="449" height="248" alt="image" src="https://github.com/user-attachments/assets/5bbfa263-1c6d-475a-a3a8-719fe0bcb74c" />
-
-
-- Para corrigir, basta cliclar com o botão direito sobre o "pom.xml" e "+ Add as a maven project"
-<img width="578" height="991" alt="image" src="https://github.com/user-attachments/assets/414827a9-c7ff-4567-8602-ce1ff15a1f72" />
-
-
-## 3 - Como iniciar - BANCO DE DADOS DB:
+## 2 - Como iniciar - BANCO DE DADOS DB:
 
 Possuo as pastas back_end e front_end com as tecnologias de SpringBoot e Angular/React, respectivamente.
 
@@ -42,7 +32,7 @@ Detalhes para o SQL:
 Banco criado - a aplicação criará automaticamente as tabelas e dados
 <img width="261" height="113" alt="image" src="https://github.com/user-attachments/assets/dd835495-6a7a-47f8-8745-6d6938b95f12" />
 
-## 4 - Clonando o repositório:
+## 3 - Clonando o repositório:
 <img width="1160" height="862" alt="image" src="https://github.com/user-attachments/assets/7017348d-667e-4f70-800b-074dcd49a4ba" />
 
 - Colocar o comando
@@ -52,7 +42,14 @@ Banco criado - a aplicação criará automaticamente as tabelas e dados
 <img width="944" height="237" alt="image" src="https://github.com/user-attachments/assets/f77739e1-bd53-48a7-82d2-811bc707f9e4" />
 <img width="1005" height="281" alt="image" src="https://github.com/user-attachments/assets/a5786533-68c9-4d14-80fb-26b00d8389b7" />
 
+## 4 - ⚠️ Aviso importante (Apenas caso tenha feito o passo 5 e o projeto não tenha sido reconhecido como maven)!!
 
+- Caso o projeto não esteja sendo reconhecido como maven provavelmente ele estará assim, empedindo de que o mesmo possa ser executado.
+<img width="449" height="248" alt="image" src="https://github.com/user-attachments/assets/5bbfa263-1c6d-475a-a3a8-719fe0bcb74c" />
+
+
+- Para corrigir, basta cliclar com o botão direito sobre o "pom.xml" e "+ Add as a maven project"
+<img width="578" height="991" alt="image" src="https://github.com/user-attachments/assets/414827a9-c7ff-4567-8602-ce1ff15a1f72" />
 
 
 
@@ -76,6 +73,9 @@ Banco criado - a aplicação criará automaticamente as tabelas e dados
 - Para começar recomendo que dê a iniciação pelo "Startup" ao abrir ele e clicar no botão de inicialização ao lado:
 <img width="695" height="584" alt="image" src="https://github.com/user-attachments/assets/6d26e96e-56fc-4207-84dd-38e93756cf51" />
 <img width="1044" height="652" alt="image" src="https://github.com/user-attachments/assets/7be1a5e4-b34e-4bd4-9f81-74718e181bc1" />
+
+- Depois de iniciar ele já estará pronto para ser utilizado pelo FrontEnd
+<img width="1816" height="998" alt="image" src="https://github.com/user-attachments/assets/33d5520d-2d53-4dc9-9975-42a1e9240a50" />
 
 ## 6 - (OPCIONAL) Caso desejar fazer por outro método também há esse logo abaixo:
 
