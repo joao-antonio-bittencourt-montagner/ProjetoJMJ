@@ -19,8 +19,11 @@ Logar no banco ou quando for construir ele
 
 Abaixo deixo imagens demonstrativas, porém enfatizo o vídeo disponibilizado em drive
 
-## Caso o projeto não esteja sendo reconhecido como maven provavelmente ele estará assim:
+## ⚠️ Aviso importante!!
+
+- Caso o projeto não esteja sendo reconhecido como maven provavelmente ele estará assim:
 <img width="449" height="248" alt="image" src="https://github.com/user-attachments/assets/5bbfa263-1c6d-475a-a3a8-719fe0bcb74c" />
+Isso empedirá de que o mesmo possa ser executado.
 
 - Para corrigir, basta cliclar com o botão direito sobre o "pom.xml" e "+ Add as a maven project"
 <img width="578" height="991" alt="image" src="https://github.com/user-attachments/assets/414827a9-c7ff-4567-8602-ce1ff15a1f72" />
