@@ -1,4 +1,4 @@
-## Informações essênciais
+## 1 - Informações essênciais
 
 Abaixo estarei disponibilizando o link de um vídeo com o passo a passo da inicialização do projeto no meu google drive:
 https://drive.google.com/file/d/1LEvyTSgPIENVaTOC6lLN_4mk0DLp7yfa/view?usp=sharing
@@ -19,7 +19,7 @@ Logar no banco ou quando for construir ele
 
 Abaixo deixo imagens demonstrativas, porém enfatizo o vídeo disponibilizado em drive
 
-## ⚠️ Aviso importante!!
+## 2 - ⚠️ Aviso importante!!
 
 - Caso o projeto não esteja sendo reconhecido como maven provavelmente ele estará assim, empedindo de que o mesmo possa ser executado.
 <img width="449" height="248" alt="image" src="https://github.com/user-attachments/assets/5bbfa263-1c6d-475a-a3a8-719fe0bcb74c" />
@@ -29,7 +29,7 @@ Abaixo deixo imagens demonstrativas, porém enfatizo o vídeo disponibilizado em
 <img width="578" height="991" alt="image" src="https://github.com/user-attachments/assets/414827a9-c7ff-4567-8602-ce1ff15a1f72" />
 
 
-## Como iniciar - BANCO DE DADOS DB:
+## 3 - Como iniciar - BANCO DE DADOS DB:
 
 Possuo as pastas back_end e front_end com as tecnologias de SpringBoot e Angular/React, respectivamente.
 
@@ -42,7 +42,7 @@ Detalhes para o SQL:
 Banco criado - a aplicação criará automaticamente as tabelas e dados
 <img width="261" height="113" alt="image" src="https://github.com/user-attachments/assets/dd835495-6a7a-47f8-8745-6d6938b95f12" />
 
-## Clonando o repositório:
+## 4 - Clonando o repositório:
 <img width="1160" height="862" alt="image" src="https://github.com/user-attachments/assets/7017348d-667e-4f70-800b-074dcd49a4ba" />
 
 - Colocar o comando
@@ -56,7 +56,7 @@ Banco criado - a aplicação criará automaticamente as tabelas e dados
 
 
 
-## Como iniciar - BackEnd, Spring_Boot:
+## 5 - Como iniciar - BackEnd, Spring_Boot:
 
 - Para acessar o backend com o springboot basta apenas abrir a pasta do projeto e abrir no intellij:
 <img width="1158" height="206" alt="image" src="https://github.com/user-attachments/assets/ee4a18cc-06d5-4a6d-9cf8-6d7408ba7b9e" />
@@ -68,11 +68,16 @@ Banco criado - a aplicação criará automaticamente as tabelas e dados
 <img width="1290" height="992" alt="image" src="https://github.com/user-attachments/assets/b78fbde8-8249-415b-9f2d-12b8d88a9613" />
 
 
-- Aguardamos a IDE carregar todos os arquivos necessários e as dpendências maven
-- Precisamos Procurar pelo arquivo "Startup pelo diretório"
-- Podemos iniciar ele pelo ícone de play ao lado da classe
+- Aguardamos a IDE carregar todos os arquivos necessários e as dependências maven
+- Precisamos Procurar pelo arquivo "Startup" pelo diretório
+- Nele, iniciamos pelo ícone de "play" ao lado da classe
 <img width="1867" height="1009" alt="image" src="https://github.com/user-attachments/assets/cb69da59-6b93-433a-9c15-2f31261cd8fc" />
 
+- Para começar recomendo que dê a iniciação pelo "Startup" ao abrir ele e clicar no botão de inicialização ao lado:
+<img width="695" height="584" alt="image" src="https://github.com/user-attachments/assets/6d26e96e-56fc-4207-84dd-38e93756cf51" />
+<img width="1044" height="652" alt="image" src="https://github.com/user-attachments/assets/7be1a5e4-b34e-4bd4-9f81-74718e181bc1" />
+
+## 6 - (OPCIONAL) Caso desejar fazer por outro método também há esse logo abaixo:
 
 - Configurações atuais: 
 <img width="900" height="857" alt="image" src="https://github.com/user-attachments/assets/bf085926-7517-4da2-a3c9-f5dfd4f914ca" />
@@ -87,7 +92,7 @@ Banco criado - a aplicação criará automaticamente as tabelas e dados
 
 - O backend já está operante e agora precisamos inicializar o front para mexer na interface
 
-## Como iniciar - FrontEnd, React/Angular:
+## 7 - Como iniciar - FrontEnd, React/Angular:
 
 - É interessante abrir o projeto na pasta "client"
 <img width="1087" height="383" alt="image" src="https://github.com/user-attachments/assets/909cc667-8d5c-432b-abc9-be7f71bd57a8" />
